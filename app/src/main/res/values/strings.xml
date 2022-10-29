@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- logo strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="skincare_string">Skincare</string>
+	<string name="skintific_5x_ceramide_soothing_toner_80_ml_rp_128_800_string">SKINTIFIC5X Ceramide Soothing Toner 80 mlRp 128.800</string>
+	<string name="carasun_solkar_smart_uv_protector_30ml_rp_60_100_string">CARASUNSolkar Smart UV Protector 30mlRp 60.100</string>
+	<string name="rojukiss_tea_tree_bija_pro_acne_serum_8ml_rp_19_800_string">ROJUKISSTea Tree Bija Pro Acne Serum 8mlRp 19.800</string>
+	<string name="derma_angel_acne_patch_night__12_patch__rp_29_250_string">DERMA ANGELAcne Patch Night (12 Patch)Rp 29.250</string>
+	<string name="bio_oil_bio_oil_60_ml_rp_142_000_string">Bio-OilBio-Oil 60 mlRp 142.000</string>
+	<string name="vaseline_repairing_hand_mask_twinpack_rp_77_000_string">VASELINERepairing Hand Mask TwinpackRp 77.000</string>
+	<string name="precious_skin_alpha_arbutin_salt_scrub_rp_59_000_string">PRECIOUS SKINAlpha Arbutin Salt ScrubRp 59.000</string>
+	<string name="huangjisoo_hand_gel_rp_100_000_string">HUANGJISOOHand GelRp 100.000</string>
+    <string name="capture3_1">capture3_1</string>
+	<string name="capture3_1_ek1">capture3_1_ek1</string>
+	<string name="rectangle_1">rectangle_1</string>
+	<string name="rectangle_2">rectangle_2</string>
+	<string name="capture_removebg_preview_1">capture_removebg_preview_1</string>
+</resources>

@@ -1,0 +1,128 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="wrap_content" >
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		logo
+     *	@date 		Sunday 23rd of October 2022 05:13:02 AM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+    <ScrollView android:id="@+id/bodycare"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout android:id="@+id/content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+
+
+
+
+            <RelativeLayout android:id="@+id/page_bodycare_ek1"
+                android:layout_marginTop="0dp"
+                android:layout_marginStart="0dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+                <View   android:id="@+id/_bg__bodycare_ek2"
+                    android:background="@drawable/_bg__bodycare_ek2_shape"
+                    android:layout_marginStart="0dp"
+                    android:layout_marginTop="0dp"
+                    android:layout_width="360dp"
+                    android:layout_height="640dp" />
+
+                <ImageView android:id="@+id/rectangle_12_ek1"
+                    android:src="@drawable/rectangle_12_ek1"
+                    android:contentDescription="rectangle_12_ek1"
+                    android:layout_marginStart="37dp"
+                    android:layout_marginTop="139dp"
+                    android:layout_width="126dp"
+                    android:layout_height="128dp" />
+
+                <ImageView android:id="@+id/rectangle_13"
+                    android:src="@drawable/rectangle_13"
+                    android:contentDescription="rectangle_13"
+                    android:layout_marginStart="197dp"
+                    android:layout_marginTop="139dp"
+                    android:layout_width="126dp"
+                    android:layout_height="128dp" />
+
+                <ImageView android:id="@+id/rectangle_9_ek1"
+                    android:src="@drawable/rectangle_9_ek1"
+                    android:contentDescription="rectangle_9_ek1"
+                    android:layout_marginStart="37dp"
+                    android:layout_marginTop="373dp"
+                    android:layout_width="126dp"
+                    android:layout_height="128dp" />
+
+                <ImageView android:id="@+id/rectangle_11_ek1"
+                    android:src="@drawable/rectangle_11_ek1"
+                    android:contentDescription="rectangle_11_ek1"
+                    android:layout_marginStart="197dp"
+                    android:layout_marginTop="373dp"
+                    android:layout_width="126dp"
+                    android:layout_height="128dp" />
+
+                <TextView android:id="@+id/bio_oil_bio_oil_60_ml_rp_142_000"
+                    android:fontFamily="sans-serif-medium"
+                    android:textColor="@color/skintific_5x_ceramide_soothing_toner_80_ml_rp_128_800_color"
+                    android:layout_marginLeft="37dp"
+                    android:layout_marginTop="282dp"
+                    android:layout_width="147dp"
+                    android:layout_height="87dp"
+                    android:text="@string/bio_oil_bio_oil_60_ml_rp_142_000_string"
+                    />
+
+                <TextView android:id="@+id/vaseline_repairing_hand_mask_twinpack_rp_77_000"
+                    android:fontFamily="sans-serif-medium"
+                    android:textColor="@color/skintific_5x_ceramide_soothing_toner_80_ml_rp_128_800_color"
+                    android:layout_marginLeft="197dp"
+                    android:layout_marginTop="281dp"
+                    android:layout_width="147dp"
+                    android:layout_height="87dp"
+                    android:text="@string/vaseline_repairing_hand_mask_twinpack_rp_77_000_string"
+                    />
+
+                <TextView android:id="@+id/precious_skin_alpha_arbutin_salt_scrub_rp_59_000"
+                    android:fontFamily="sans-serif-medium"
+                    android:textColor="@color/skintific_5x_ceramide_soothing_toner_80_ml_rp_128_800_color"
+                    android:layout_marginLeft="39dp"
+                    android:layout_marginTop="517dp"
+                    android:layout_width="147dp"
+                    android:layout_height="87dp"
+                    android:text="@string/precious_skin_alpha_arbutin_salt_scrub_rp_59_000_string"
+                    />
+
+                <TextView android:id="@+id/huangjisoo_hand_gel_rp_100_000"
+                    android:fontFamily="sans-serif-medium"
+                    android:textColor="@color/skintific_5x_ceramide_soothing_toner_80_ml_rp_128_800_color"
+                    android:layout_marginLeft="197dp"
+                    android:layout_marginTop="519dp"
+                    android:layout_width="147dp"
+                    android:layout_height="87dp"
+                    android:text="@string/huangjisoo_hand_gel_rp_100_000_string"
+                    />
+
+                <ImageView android:id="@+id/capture3_1_ek3"
+                    android:src="@drawable/capture3_1_ek3"
+                    android:contentDescription="capture3_1_ek3"
+                    android:layout_marginStart="27dp"
+                    android:layout_marginTop="22dp"
+                    android:layout_width="96dp"
+                    android:layout_height="70dp" />
+
+            </RelativeLayout>
+        </RelativeLayout>
+
+    </ScrollView>
+</HorizontalScrollView>

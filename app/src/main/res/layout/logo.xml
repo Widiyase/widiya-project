@@ -1,0 +1,43 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+
+	<ScrollView android:id="@+id/logo" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_logo_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__logo_ek2"
+					android:background="@drawable/_bg__logo_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="408dp"
+					android:layout_height="724dp" />
+
+				<ImageView
+					android:id="@+id/capture3_1"
+					android:layout_width="307dp"
+					android:layout_height="237dp"
+					android:layout_marginStart="50dp"
+					android:layout_marginTop="225dp"
+					android:contentDescription="@string/capture3_1"
+					android:src="@drawable/capture3_1" />
+
+			</RelativeLayout>
+
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
